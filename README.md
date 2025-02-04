@@ -11,12 +11,9 @@ Manual Testing Project for OpenCart E-Commerce Website, covering functional, API
 
 ## Documentation    
 📌 **[Test Scenario](https://github.com/user-attachments/files/18651279/OpenCart.Test.Scenario.xlsx)**  
-📌 **[Test Cases](https://github.com/user-attachments/files/18651292/OpenCart.Test.Cases.xlsx)
-]**  
-📌 **[Bug Reports](https://github.com/user-attachments/files/18651302/OpenCart.BugReport.xlsx)
-]**  
-📌 **[Test Execution Summary](https://github.com/user-attachments/files/18651305/OpenCart.TestExecution%2BResults.xlsx)
-]**  
+📌 **[Test Cases](https://github.com/user-attachments/files/18651292/OpenCart.Test.Cases.xlsx)**  
+📌 **[Bug Reports](https://github.com/user-attachments/files/18651302/OpenCart.BugReport.xlsx)**  
+📌 **[Test Execution Summary](https://github.com/user-attachments/files/18651305/OpenCart.TestExecution%2BResults.xlsx)**  
 
 ##  Tools Used  
   **JIRA, Postman, MySQL, Browser Developer Tools**  
